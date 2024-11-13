@@ -1,0 +1,15 @@
+20241111	17:59:34	05a3e8f2-582d-4546-9fd1-af695a821312	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.	POST	/users	undefined
+20241111	18:00:32	1a6c4c16-aa61-4eeb-ac00-a312fd60057f	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.	POST	/users	undefined
+20241111	18:01:51	b3db204e-4a65-4fa4-be9c-e07ca7078798	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.	POST	/users	undefined
+20241111	18:02:29	3059d510-511a-46b0-b761-7806d7a0f18d	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.	POST	/users	undefined
+20241111	18:03:12	c3223de0-01c9-4c74-8a44-081a64c1f20d	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.	POST	/users	undefined
+20241111	18:03:56	b3db57cf-d2ed-438f-a56c-77b04921ac3b	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.	POST	/users	undefined
+20241111	18:04:36	612fdb45-0c86-4f55-8449-969eea6d70a5	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.	POST	/users	undefined
+20241111	18:05:34	1b719392-584b-4059-957b-62b6ec874b88	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.	POST	/users	undefined
+20241111	18:05:56	80e281ee-4556-4829-8b84-ae6e857f6b06	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.	POST	/users	undefined
+20241112	10:14:17	89779c97-ccdb-41c7-9474-6a3e217d0a6e	SyntaxError: Expected ',' or '}' after property value in JSON at position 99	PATCH	/users	undefined
+20241112	10:22:21	727ac7f6-5e76-41d6-96db-4ca718cb8819	SyntaxError: Expected ',' or '}' after property value in JSON at position 66	POST	/users	undefined
+20241112	12:20:30	08418081-6919-4915-8914-babc1c4e7fc7	Error: Not allowed by CORS	GET	/users	http://localhost:3001
+20241112	12:20:37	8c71af68-ba23-49f3-a470-472750ac19de	Error: Not allowed by CORS	GET	/users	http://localhost:3001
+20241112	12:21:57	0e8d1213-f340-4f1c-bf3e-2fac91420210	Error: Not allowed by CORS	GET	/users	http://localhost:3001
+20241112	12:22:22	8e8537c8-4467-4f18-b6b5-ee585691409c	Error: Not allowed by CORS	GET	/users	http://localhost:3001
